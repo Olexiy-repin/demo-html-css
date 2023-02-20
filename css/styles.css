@@ -1,0 +1,104 @@
+/* 
+  універсальний селектор
+  селектор елемента(тегу)
+  селектор id
+  селектор класу
+  селектор атрибута
+  селектор нащадка
+  дочірній селектор
+*/
+
+/* Універсальний селектор */
+/* * {
+  list-style: none;
+} */
+
+/* селектор елемента(тега) */
+/* ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: tomato;
+}
+
+p {
+  color: teal;
+} */
+
+/* селектор id */
+/* #main-title {
+  color: tomato;
+}
+
+#description {
+  color: teal;
+}
+
+#secondary-description {
+  color: teal;
+} */
+
+/* селектор класу */
+/* .main-title {
+  color: tomato;
+}
+
+.description {
+  color: teal;
+} */
+
+/* селектор атрибута */
+/* [href="https://www.google.com/"]
+{
+  color: yellowgreen;
+} */
+
+/* селектор нащадка */
+/* .social-list a {
+  color: yellowgreen;
+} */
+
+/* дочірній селектор */
+/* .social-list-item > a {
+  color: yellowgreen;
+} */
+
+/* 100 */
+/* #main-desc {
+  color: yellow;
+} */
+
+/* 11 */
+/* body .description {
+  color: yellowgreen;
+} */
+
+/* 10 */
+/* .description {
+  color: teal;
+} */
+
+/* 1 */
+/* p {
+  color: tomato;
+} */
+
+/* .description {
+  color: teal;
+}
+
+body {
+  font-size: 40px;
+  color: tomato;
+  line-height: 1.2;
+}
+
+a {
+  color: inherit;
+} */
